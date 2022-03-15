@@ -24,3 +24,10 @@
     font-weight: 700;
     margin: 3rem 0;
   }
+  .posttitle{
+    color:navy;  
+  }
+  .postanddate{
+    color:black;
+    font-size:12px;
+  }
